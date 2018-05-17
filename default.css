@@ -1,0 +1,24 @@
+*{padding: 0; margin: 0;box-sizing: border-box;}
+a{
+    text-decoration: none;
+}
+
+h1{
+    margin:10px 0;
+    font-size: 32px;
+}
+ol,ul{
+    margin-top: -20px;
+    margin-left: 1.5em;
+}
+
+.token.selector{
+    color: #000;
+}
+.token.property,
+.token.number{
+    color: #000;
+}
+.token.function{
+    color: #000;
+}
